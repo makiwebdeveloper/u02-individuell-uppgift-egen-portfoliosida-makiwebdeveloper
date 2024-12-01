@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HTML",
+    "imgUrl": "assets/stack/html-icon.svg"
+  },
+  {
+    "name": "CSS",
+    "imgUrl": "assets/stack/css-icon.svg"
+  },
+  {
+    "name": "JavaScript",
+    "imgUrl": "assets/stack/js-icon.svg"
+  },
+  {
+    "name": "React",
+    "imgUrl": "assets/stack/react-icon.svg"
+  },
+  {
+    "name": "Redux",
+    "imgUrl": "assets/stack/redux-icon.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "imgUrl": "assets/stack/bootstrap-icon.svg"
+  },
+  {
+    "name": "Tailwind",
+    "imgUrl": "assets/stack/tailwind-icon.svg"
+  },
+  {
+    "name": "Sass",
+    "imgUrl": "assets/stack/sass-icon.svg"
+  },
+  {
+    "name": "Git",
+    "imgUrl": "assets/stack/git-icon.svg"
+  },
+  {
+    "name": "GreenSock",
+    "imgUrl": "assets/stack/greensock.svg"
+  },
+  {
+    "name": "VSCode",
+    "imgUrl": "assets/stack/vscode-icon.svg"
+  },
+  {
+    "name": "GitHub",
+    "imgUrl": "assets/stack/github-icon.svg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "imgUrl": "/assets/projects/soundy.png",
+    "title": "Soundy",
+    "description": "Modern music platform, where you can listen, upload and save music.",
+    "techStack": "Next.js, TypeScript, PostgreSQL",
+    "livePreviewUrl": "https://soundy-music.vercel.app/",
+    "sourceCodeUrl": "https://github.com/makiwebdeveloper/soundy"
+  },
+  {
+    "imgUrl": "/assets/projects/quizzy-ai.png",
+    "title": "Quizzy AI",
+    "description": "Quizzy Ai is a fullstack application for the purpose of creating, taking, and managing quizzes or tests with AI.",
+    "techStack": "Next.js, TypeScript, PrismaORM",
+    "livePreviewUrl": "https://quizzy-ai.vercel.app/",
+    "sourceCodeUrl": "https://github.com/makiwebdeveloper/quizzy-ai"
+  },
+  {
+    "imgUrl": "/assets/projects/olx-clone.png",
+    "title": "OLX Clone",
+    "description": "It is a fullstack clone of the famous ukrainian application Olx with basic features.",
+    "techStack": "Next.js, TypeScript, PrismaORM",
+    "livePreviewUrl": "https://olx-clone-maki.vercel.app/",
+    "sourceCodeUrl": "https://github.com/makiwebdeveloper/olx-clone"
+  }
+]
